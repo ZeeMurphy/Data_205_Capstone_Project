@@ -44,8 +44,8 @@ This project addresses 13 research questions across four themes:
 
 | Dataset | Source | Years | Variables |
 |---------|--------|-------|-----------|
-| CDC BRFSS Alzheimer's Disease and Healthy Aging Data | [data.cdc.gov](https://data.cdc.gov/Healthy-Aging/Alzheimer-s-Disease-and-Healthy-Aging-Data/hfr9-rurv) | 2015–2022 | Cognitive decline, depression, mental distress, physical inactivity, poor health, disability, smoking, binge drinking |
-| U.S. Census Bureau ACS 5-Year Estimates | [census.gov](https://www.census.gov/data/developers/data-sets/acs-5year.html) | 2018–2022 | Median household income, educational attainment |
+| CDC BRFSS Alzheimer's Disease and Healthy Aging Data | [data.cdc.gov/Healthy-Aging/Alzheimer-s-Disease-and-Healthy-Aging-Data/hfr9-rurv](https://data.cdc.gov/Healthy-Aging/Alzheimer-s-Disease-and-Healthy-Aging-Data/hfr9-rurv) | 2015–2022 | Cognitive decline, depression, mental distress, physical inactivity, poor health, disability, smoking, binge drinking |
+| U.S. Census Bureau ACS 5-Year Estimates (2022) | [census.gov/data/developers/data-sets/acs-5year.html](https://www.census.gov/data/developers/data-sets/acs-5year.html) | 2018–2022 | Median household income (DP03_0062E), educational attainment (DP02_0068PE) |
 
 ---
 
