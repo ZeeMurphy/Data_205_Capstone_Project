@@ -65,7 +65,12 @@ This project addresses 13 research questions across four themes:
 - **A multiple regression model** combining all 10 predictors explains 
   74.2% of the variation in state-level cognitive decline rates (R² = 0.742)
 ---
+## Interactive Dashboard
 
+Explore the CDC BRFSS cognitive decline data by state, including risk factors 
+and local resources for older adults:
+
+👉 **[View Live Dashboard](https://zeemurphy.github.io/Data_205_Capstone_Project/analysis/dashboard/cognitive_decline_dashboard.html)**
 ## How to Run
 
 The notebook loads data directly from the CDC SODA2 API — no file 
